@@ -1,0 +1,31 @@
+encriptar con hash  md5
+
+*logear con google (investigar)
+-usuario:email
+-Password:encriptado
+-Consejo, utilizar la api de laravel para el logueo 
+
+
+*registro de usuario de pacientes:
+-ci
+-nombres
+-apellidos 
+-fecha nac
+-foto
+-cargo(titulo profesional)
+-Nacionalidad
+-residencia 
+-telefono celular
+
+*reporte de registro
+este reporte debe generarse en PDF, en base dedatos registrados
+*se debe necesariamente utilizar un patron de diseño estudiado en clase y registrados en libro.
+*la base de datos estara en :
+.
+* exposicion, un representante expondra su sistema en 10 min(Miercoles final).
+* evaluacion personal de cada integrante del grupo.
+
+
+
+EVALUACIONES
+https://oslogin.googleapis.com/$discovery/rest?version=v1

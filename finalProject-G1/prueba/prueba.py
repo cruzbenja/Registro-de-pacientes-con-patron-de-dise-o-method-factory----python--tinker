@@ -1,0 +1,3 @@
+from registro import *
+
+register()

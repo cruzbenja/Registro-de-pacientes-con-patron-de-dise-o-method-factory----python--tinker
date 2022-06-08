@@ -1,0 +1,29 @@
+ [ 3 - ] [ 121212  ] [ josias  ] [ Quispe  ] [  cc  ] [ Masculino  ] [ 6/12/04  ]
+ [ ABC  ]
+ [ ninguno  ]
+ [ España  ] [ password123  ] [ Cartero  ] [ josias_user  ]
+ [ None  ] [ 12  ]
+ --------------------------------------------------------------------------------------------------------- 
+ [ 9 - ] [ 2423423  ] [ JOSE MANUEL  ] [ TAPIA  ] [  MARTINEZ  ] [ Masculino  ] [ 23/6/22  ]
+ [ JOVEN ESTUDIANTE
+DE PROGRAMACION 4
+JOSE MANUEL TAPIA  ]
+ [ C:/Users/59179/Desktop/PROGRAMACION IV/finalProject/src/foto1.jpg  ]
+ [ BOLIVIA  ] [ SANTA CRUZ  ] [ DEVELOPER  ] [ DATA SCIENCE  ]
+ [ SYSTEM  ] [ None  ]
+ --------------------------------------------------------------------------------------------------------- 
+ [ 11 - ] [ 76589945  ] [ Dominic  ] [ Toreto  ] [  None  ] [ Masculino  ] [ 6/1/22  ]
+ [ None  ]
+ [ https://www.tonica.la/__export/1580927012000/sites/debate/img/2020/02/05/dominic_toreto_portada_2.jpg_423682103.jpg  ]
+ [ Americana  ] [ fastnfurious  ] [ Taxista  ] [ dominic  ]
+ [ None  ] [ None  ]
+ --------------------------------------------------------------------------------------------------------- 
+ [ 12 - ] [ 88889999  ] [ RONALD  ] [ CUSIQUISPE  ] [  PACO  ] [ Masculino  ] [ 24/6/22  ]
+ [ ESTUDIANTE 
+DE PROGRAMACION 
+CON EL ING
+ZAMBRANA  ]
+ [ C:/Users/59179/Desktop/PROGRAMACION IV/finalProject/src/foto.png  ]
+ [ BOLIVIA  ] [ SANTA CRUZ  ] [ FULLSTACK DEVELOPER  ] [ MACHINE LEARNING  ]
+ [ ING SISTEMAS  ] [ 655549887  ]
+ --------------------------------------------------------------------------------------------------------- 
